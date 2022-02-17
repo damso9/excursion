@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: black;
+}
+.container {
+    width: 100%;
+}
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-weight: normal;
+    margin: 33.5px 0;
+}
+header h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    margin: 34.85px 0;
+}
+#excursion-take {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+    margin: 24px 0;
+}
+.link {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+main video {
+    display: block;
+    margin: 0 auto; 
+}
+.camp {
+    display: block;
+    margin: 20px auto;
+
+
+}
